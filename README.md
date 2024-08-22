@@ -13,3 +13,4 @@
 
 
 # Observação: Este software ainda recebera atualizações futuras!
+# Observação: Você pode utilizar o modulo GerarFakes.py para gerar uma grande quantidade de dados fakes no banco de dados
